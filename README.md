@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on creating a mininmal Operating System.
 - 🌱 I’m currently learning Software Development.
 - 👯 I’m looking to collaborate on Software Development and Internet Of Things projects. 
-- 🤔 I’m looking for help with industry automation and building intelligent systems that could automate industry with less human efforts.
+- 🤔 I’m looking for help with industry automation and building intelligent computing systems that could automate industry with less human efforts.
 - 💬 Ask me about Software Development, Machine learning, Internet Of Things, Industry Automation.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: How do some people become good IT Professional, because they just keep googling stuffs and keeps on working.
