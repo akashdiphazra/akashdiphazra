@@ -15,7 +15,7 @@
 </br>
 
   
-<h3 align="center">A passionate developer obsessed with technology</h3> 
+<h3 align="center">A passionate developer obsessed with technology.</h3> 
 
 Here are some ideas to get you started:
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with industry automation and building intelligent systems that could automate industry with less human efforts.
 - 💬 Ask me about Software Development, Machine learning, Internet Of Things, Industry Automation.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: How do some people become good IT Professional, because they just keep googling stuffs and keep working
+- ⚡ Fun fact: How do some people become good IT Professional, because they just keep googling stuffs and keeps on working.
 
    
 <h3 align="left">Programming Languages:</h3>
