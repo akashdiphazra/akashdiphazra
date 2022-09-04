@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="29px">, I'm Akashdip 
 
 <!--
 **akashdiphazra/akashdiphazra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
