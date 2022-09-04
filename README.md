@@ -17,8 +17,6 @@
   
 <h3 align="center">A passionate developer obsessed with technology.</h3> 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on creating a mininmal Operating System.
 - 🌱 I’m currently learning Software Development.
 - 👯 I’m looking to collaborate on Software Development and Internet Of Things projects. 
