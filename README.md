@@ -1,11 +1,6 @@
 ## Hey <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="29px">, I'm Akashdip 
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdiphazra&label=Profile%20views&color=0e75b6&style=flat" alt="akashdiphazra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashdiphazra" alt="akashdiphazra" /></a> </p>
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -32,3 +27,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdiphazra&show_icons=true&locale=en" alt="akashdiphazra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashdiphazra&" alt="akashdiphazra" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdiphazra&label=Profile%20views&color=0e75b6&style=flat" alt="akashdiphazra" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashdiphazra" alt="akashdiphazra" /></a> </p>
