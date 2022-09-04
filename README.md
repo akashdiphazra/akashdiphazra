@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> 
-  <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/file-format-3d-graphics-glyph-1/64/file_document_3d-10-1024.png" alt="asm" width="40" height="40"/></a>
+  <a href="https://developer.ibm.com/articles/l-gas-nasm/" target="_blank" rel="noreferrer"> <img src="https://cdn0.iconfinder.com/data/icons/file-format-3d-graphics-glyph-1/64/file_document_3d-10-1024.png" alt="asm" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Software and Technologies:</h3>
