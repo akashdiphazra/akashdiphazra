@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on creating a mininmal Operating System.
 - 🌱 I’m currently learning Software Development.
-- 🎓 I have compeleted my bachelor's on Computer Science and Engieering from [Meghnad Saha Institue Of Technology](https://msit.edu.in/).  
+- 🎓 I have compeleted my bachelor's on Computer Science and Engieering from [Meghnad Saha Institute Of Technology](https://msit.edu.in/).  
 - 👯 I’m looking to collaborate on Software Development and Internet Of Things projects. 
 - 🤔 I’m looking for help with industry automation and building intelligent computing systems that could automate industry with less human efforts.
 - 💬 Ask me about Software Development, Machine learning, Internet Of Things, Industry Automation.
