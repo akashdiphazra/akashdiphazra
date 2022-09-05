@@ -11,7 +11,7 @@
   <img align="left" alt="Akashdip's Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-1024.png" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=akashdiphazra&color=blueviolet&style=plastic&label=PROFILE+VISITORS)
+![](https://komarev.com/ghpvc/?username=akashdiphazra&color=blueviolet&style=plastic&label=PROFILE+VIEWS+)
 </br>
 
   
