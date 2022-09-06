@@ -2,13 +2,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/akashdiphazra">
-  <img align="left" alt="Akashdip Hazra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Akashdip Hazra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
 </a>
 <a href="https://in.linkedin.com/in/akashdiphazra">
-  <img align="left" alt="Akashdip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Akashdip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 <a href="https://kaggle.com/akashdiphazra">
-  <img align="left" alt="Akashdip's Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-1024.png" />
+  <img align="left" alt="Akashdip's Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-1024.png"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=akashdiphazra&color=blueviolet&style=plastic&label=PROFILE+VIEWS+)
