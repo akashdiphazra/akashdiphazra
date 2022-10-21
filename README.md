@@ -27,6 +27,7 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: How do some people become good IT Professionals, because they just keep googling stuffs and keeps on working.
 
+---
    
 <h3 align="left">Programming Languages:</h3>
 <p align="left">  
