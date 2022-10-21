@@ -40,7 +40,7 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/512x512.svg" alt="bash" width="40" height="40"/></a> 
-  <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer"> <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" alt="asm" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer"> <img src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" alt="asm" width="35" height="35"/></a>
 </p>
 
 <h3 align="left">Software and Technologies:</h3>
