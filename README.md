@@ -7,8 +7,8 @@
 <a href="https://in.linkedin.com/in/akashdiphazra">
   <img align="left" alt="Akashdip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
-<a href="https://kaggle.com/akashdiphazra">
-  <img align="left" alt="Akashdip's Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-1024.png"/>
+<a href="https://www.instagram.com/akashdiphazra/">
+  <img align="left" alt="Akashdip's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=akashdiphazra&color=blueviolet&style=plastic&label=PROFILE+VIEWS+)
