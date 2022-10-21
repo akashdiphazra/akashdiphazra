@@ -1,5 +1,10 @@
 ## Hey <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="29px">, I'm Akashdip   
 
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro+Semibold&size=16&pause=1000&color=F74F20&background=D35D4200&center=true&vCenter=true&width=455&height=60&lines=Software+Development+and+Machine+Learning;A+passionate+developer+obsessed+with+technology" alt="Typing SVG" /></a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/akashdiphazra">
   <img align="left" alt="Akashdip Hazra | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
@@ -16,7 +21,7 @@
 
 ---
   
-<h3 align="center">A passionate developer obsessed with technology.</h3> 
+<h3 align="left">About me:</h3> 
 
 - 🔭 I’m currently working on creating a mininmal Operating System.
 - 🌱 I’m currently learning Software Development.
@@ -50,5 +55,6 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/452/ansible.png" alt="ansible" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
 </p>
+
 
  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akashdiphazra&show_icons=true&theme=gruvbox" alt="akashdiphazra" />
