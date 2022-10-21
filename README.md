@@ -57,6 +57,6 @@
 </p>
 
 
-Github Streak 🔥           |  Github Stars and Contributions ⭐
-:-------------------------:|:----------------------------------:
+Github Streak 🔥                    |  Github Stars and Contributions ⭐
+:----------------------------------:|:----------------------------------:
 ![GitHub Streak](https://streak-stats.demolab.com?user=akashdiphazra&theme=gruvbox) | ![GitHub Stars and Contributions](https://github-readme-stats.vercel.app/api?username=akashdiphazra&show_icons=true&theme=gruvbox)
