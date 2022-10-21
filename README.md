@@ -14,6 +14,7 @@
 ![](https://komarev.com/ghpvc/?username=akashdiphazra&color=blueviolet&style=plastic&label=PROFILE+VIEWS+)
 </br>
 
+---
   
 <h3 align="center">A passionate developer obsessed with technology.</h3> 
 
