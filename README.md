@@ -103,4 +103,4 @@ working.
 
 Github Streak 🔥 | Github Stars and Contributions ⭐
 :----------------------------------:|:----------------------------------:
-![GitHub Streak](https://streak-stats.demolab.com?user=akashdiphazra&theme=gruvbox) | ![GitHub Stars and Contributions](https://github-readme-stats.vercel.app/api?username=akashdiphazra&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=akashdiphazra&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![GitHub Stars and Contributions](https://github-readme-stats.vercel.app/api?username=akashdiphazra&show_icons=true&theme=gruvbox)
