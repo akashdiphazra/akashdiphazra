@@ -95,7 +95,7 @@ working.
         <img align="left" alt="Akashdip's Codeforces" width="30" height="30"
             src="https://cdn.iconscout.com/icon/free/png-128/code-forces-3629285-3031869.png" /> </a>
     <a href="https://leetcode.com/akashdiphazra/">
-        <img align="left" alt="Akashdip's Leetcode" width="30" height="30"
+        <img align="left" alt="Akashdip's Leetcode" width="22" height="22"
             src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" /> </a>
 </p>
 
