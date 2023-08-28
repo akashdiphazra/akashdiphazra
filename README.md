@@ -14,11 +14,12 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/akashdiphazra">
     <img align="left" alt="Akashdip Hazra | Twitter" width="22px"
-        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+        src="https://cdn-icons-png.flaticon.com/128/5968/5968830.png" />
 </a>
+
 <a href="https://in.linkedin.com/in/akashdiphazra">
     <img align="left" alt="Akashdip's LinkedIN" width="22px"
-        src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+        src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <a href="https://www.instagram.com/akashdiphazra/">
     <img align="left" alt="Akashdip's Instagram" width="22px"
