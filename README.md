@@ -107,7 +107,7 @@ Github Streak 🔥 | Github Stars and Contributions ⭐
 [![GitHub Streak](https://streak-stats.demolab.com?user=akashdiphazra&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) | ![GitHub Stars and Contributions](https://github-readme-stats.vercel.app/api?username=akashdiphazra&show_icons=true&theme=gruvbox)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashdiphazra/akashdiphazra/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashdiphazra/akashdiphazra/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
