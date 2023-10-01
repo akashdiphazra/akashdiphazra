@@ -1,4 +1,4 @@
-## Hey <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="29px">, I'm Akashdip
+## Hey <picture> <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="29px"> </picture>, I'm Akashdip
 
 <h3 align="center">
     Welcome to my profile! 😎
