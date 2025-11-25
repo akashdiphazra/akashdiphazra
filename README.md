@@ -61,7 +61,7 @@ working.
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
             src="https://img.icons8.com/color/344/bash.png" alt="bash" width="40" height="40" /></a>
     <a href="https://www.gnu.org/software/binutils/" target="_blank" rel="noreferrer"> <img
-            src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610" alt="asm"
+            src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" alt="asm"
             width="35" height="35" /></a>
 </p>
 
