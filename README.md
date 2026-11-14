@@ -19,7 +19,7 @@
 
 <a href="https://in.linkedin.com/in/akashdiphazra">
     <img align="left" alt="Akashdip's LinkedIN" width="22px"
-        src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+        src="https://delivery-p143253-e1476319.adobeaemcloud.com/adobe/assets/urn:aaid:aem:b29b53eb-bcf8-45c5-8df0-edd9f139d53c/original/as/brand-inlogo-download-fg-dsk-v01-2x.png" />
 </a>
 <a href="https://www.instagram.com/akashdiphazra/">
     <img align="left" alt="Akashdip's Instagram" width="22px"
